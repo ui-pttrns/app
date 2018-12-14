@@ -1,2 +1,1 @@
-# react-app
-starter app with react and redux 
+ui-pttrns
